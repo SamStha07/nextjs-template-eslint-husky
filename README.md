@@ -4,7 +4,7 @@ First, install dependencies:
 
 ```bash
 bun install
-bun prepare // for husky intialization
+bun prepare // first git initialized then only run this command for husky intialization
 ```
 
 After installation, run the development server:
