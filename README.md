@@ -4,7 +4,12 @@ First, install dependencies:
 
 ```bash
 bun install
-bun prepare // first git initialized then only run this command for husky intialization
+```
+
+```bash
+// first git initialized then only run this command for husky intialization
+bun prepare
+// reload the editor or ts server in your editor to actually show the lint error
 ```
 
 After installation, run the development server:
